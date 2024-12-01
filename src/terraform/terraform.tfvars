@@ -1,1 +1,2 @@
-location = "West US"
+location = "East US"
+application_name= "app"
